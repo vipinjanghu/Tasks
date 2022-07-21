@@ -1,4 +1,4 @@
-"""Here we are retricting user to _rollandbranch method into other .py files ,so we can say its an example of abstraction"""
+"""Here we are restricting user to use  _rollandbranch method into other .py files ,so we can say its an example of abstraction"""
 
 import logging
 logging.basicConfig(filename="inheritance3.log",level=logging.INFO,format='%(levelname)s %(asctime)s %(name)s %(message)s')
